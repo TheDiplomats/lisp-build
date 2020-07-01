@@ -23,6 +23,6 @@ int main(int argc, char** argv) {
 		//free input
 		free(input);
 	}
-	
+	//Blows up on windows! Refer to v3.c
 	return(0);
 }
